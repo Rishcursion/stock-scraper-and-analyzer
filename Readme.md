@@ -4,6 +4,7 @@
   What i hope to learn in this project is how to apply what i have learned in theory to practice as well as learn a new programming language i.e R <br>
   The main motivation for commiting to this project was because the historical price data for stocks can be confusing and have unnecessary information which a layman might not need. Hence, I wanted to clean up the data and
   extract insightful data from it.</p>
+
 ## TO DO:
   <ul>Learn Syntax of R and how to scrape data via it using scripts and open source libraries</ul>
   <ul>Train and test a machine learning model in python using popular libraires like keras et. al.</ul>
